@@ -1,0 +1,10 @@
+bumpversion
+wheel
+watchdog
+Sphinx
+
+-r requirements-test.txt
+
+cryptography
+PyYAML
+
